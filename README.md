@@ -1,3 +1,4 @@
 # demo
-This is my first repository
-author - yuvraj joshi
+This is my first repository.
+<br>
+Author - yuvraj joshi
